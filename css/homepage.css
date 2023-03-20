@@ -1,0 +1,25 @@
+*{
+
+}
+@font-face {
+    font-family:'Overpass', sans-serif; 
+    src: url(https://fonts.google.com/specimen/Overpass?preview.text=Anime%20Quotes&preview.text_type=custom#:~:text=https%3A//fonts.googleapis.com/css2%3Ffamily%3DOverpass%26display%3Dswap%27);
+}
+h2 {
+    color:#fff;
+    font-family:'Overpass', sans-serif; 
+    text-align: center;
+    font-weight:150;
+}
+body{
+    margin:0;
+}
+#homeheader{
+    padding: 60px;
+    text-align: center;
+    background: #272727;
+    color: white;
+    font-size: 30px;
+   
+    
+}
